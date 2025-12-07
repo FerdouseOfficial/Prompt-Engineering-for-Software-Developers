@@ -14,3 +14,12 @@ Here we will learn This concepts okay?
 ⌨️ (35:06) AI hallucinations
 ⌨️ (36:43) Vectors/text embeddings
 ⌨️ (40:28) Recap
+
+
+ Best practices ===============
+
+    1. Clear Instructions
+    2. Adopt a persona
+    3. Specify the format
+    4. Avoid leading the answer
+    5. Limit the scope
