@@ -23,3 +23,19 @@ Here we will learn This concepts okay?
     3. Specify the format
     4. Avoid leading the answer
     5. Limit the scope
+
+⌨️ (31:20) Zero shot and few shot prompts
+
+there is not that much of complexity in this concepts okay;
+
+Zero Shots Prompting:- 
+    In zero shot prompting way you just provide a prompt which answer is already exist you don't need to feed any data for it. You can get the answer from the prompt.
+
+Few Shot Prompting:-
+    In few shot prompting way, By only asking or providing a prompt the models will not able to answer that You must feed some information give some context about that concepts the question you are asking or. That is called the few shot prompting.
+
+IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT AND SIMPLE.
+IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT AND SIMPLE.
+IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT AND SIMPLE.
+IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT AND SIMPLE.
+IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT AND SIMPLE.
