@@ -1,0 +1,16 @@
+Here we will learn This concepts okay?
+
+⭐️ Contents ⭐️
+⌨️ (00:00) Introduction
+⌨️ (01:31) What is Prompt Engineering?
+⌨️ (02:17) Introduction to AI
+⌨️ (03:52) Why is Machine learning useful?
+⌨️ (06:36) Linguistics
+⌨️ (08:04) Language Models
+⌨️ (14:35) Prompt Engineering Mindset
+⌨️ (15:38) Using GPT-4
+⌨️ (20:41) Best practices
+⌨️ (31:20) Zero shot and few shot prompts
+⌨️ (35:06) AI hallucinations
+⌨️ (36:43) Vectors/text embeddings
+⌨️ (40:28) Recap
