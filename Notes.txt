@@ -39,3 +39,17 @@ IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT 
 IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT AND SIMPLE.
 IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT AND SIMPLE.
 IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT AND SIMPLE.
+
+
+
+
+⌨️ (35:06) AI hallucinations
+
+    An AI hallucination is when a large language model (LLM) generates false information.
+    its actually that SIMPLE
+
+
+
+⌨️ (36:43) Vectors/text embeddings
+
+    In computer science, particularly in the realm of machine learning and natural language processing (NLP), text embedding is a popular technique to represent textual information in a format that can be easily processed by algorithms, especially deep learning models.
