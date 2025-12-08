@@ -69,4 +69,10 @@ If you want me to explain this:-
                                                 here is how I will explain this
                                         ------------------------------------------------
 
-Actually when we talk about Prompt Engineering; People who don't have any kind of idea about it they think this are some kind of technical thing like Engineering. Because its includes the Engineering word with with 
+Actually when we talk about Prompt Engineering; People who don't have any kind of idea about it. They think this are some kind of technical thing like Engineering. Because its includes the Engineering word with it.
+
+but actually if we wanna know what is Prompt Engineering we don't need have fancy educational qualification. Any one can understand it very easily.
+
+Prompt Engineering is like instead of giving a misleading, undecorated and unplanned Instruction, It is the way of writing clear and effective prompt(instruction) for the machine. It's as easy as like that okay.
+
+I think for me this line above is more then enough for me to recap and revise or making people understand okay.
