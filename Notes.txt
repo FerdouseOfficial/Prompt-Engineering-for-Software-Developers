@@ -69,4 +69,4 @@ If you want me to explain this:-
                                                 here is how I will explain this
                                         ------------------------------------------------
 
-Actually when we talk about Prompt Engineering; People who don't have any kind of idea about it they think this are some kind of technical thing like Engineering. Because its includes the Engineering word with with
+Actually when we talk about Prompt Engineering; People who don't have any kind of idea about it they think this are some kind of technical thing like Engineering. Because its includes the Engineering word with with 
