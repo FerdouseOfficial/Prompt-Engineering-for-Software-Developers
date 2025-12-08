@@ -39,6 +39,7 @@ IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT 
 IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT AND SIMPLE.
 IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT AND SIMPLE.
 IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT AND SIMPLE.
+IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT AND SIMPLE.
 
 
 
@@ -49,7 +50,23 @@ IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT 
     its actually that SIMPLE
 
 
+IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT AND SIMPLE.
+
+IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT AND SIMPLE.
 
 ⌨️ (36:43) Vectors/text embeddings
 
     In computer science, particularly in the realm of machine learning and natural language processing (NLP), text embedding is a popular technique to represent textual information in a format that can be easily processed by algorithms, especially deep learning models. 
+
+IF YOU HAVE ANY KIND OF CONFUSTION FEEL FREE TO SEE THE TUTORIAL OKAY ITS SHORT AND SIMPLE.
+
+
+That's all 
+
+
+If you want me to explain this:- 
+                                        ------------------------------------------------
+                                                here is how I will explain this
+                                        ------------------------------------------------
+
+Actually when we talk about Prompt Engineering; People who don't have any kind of idea about it they think this are some kind of technical thing like Engineering. Because its includes the Engineering word with with
